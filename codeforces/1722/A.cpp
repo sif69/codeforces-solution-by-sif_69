@@ -36,10 +36,10 @@ int main( )
     ll i,c=0,flag=0,n; cin>>n; 
     s1 s; 
     cin>>s;
-    s1 j="Timur";
-    srt(j);
+    s1 t="Timur";
+    srt(t);
     srt(s);
-     if(j==s)
+     if(t==s)
      {
          cout<<"YES"<<endl;
      }
