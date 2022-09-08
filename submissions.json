@@ -1,4 +1,21 @@
 {
+  "CF171409029": {
+    "contest_id": 1728,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1728\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Best Permutation",
+    "problem_url": "https://codeforces.com/contest/1728/problem/B",
+    "submission_id": "CF171409029",
+    "submission_url": "https://codeforces.com/contest/1728/submission/171409029",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Sep/08/2022 22:01"
+  },
   "CF171460359": {
     "contest_id": 1725,
     "language": "GNU C++20 (64)",
