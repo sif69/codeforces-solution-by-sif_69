@@ -448,6 +448,23 @@
     ],
     "timestamp": "Sep/09/2022 08:42"
   },
+  "CF171460908": {
+    "contest_id": 1244,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1244\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Rooms and Staircases",
+    "problem_url": "https://codeforces.com/contest/1244/problem/B",
+    "submission_id": "CF171460908",
+    "submission_url": "https://codeforces.com/contest/1244/submission/171460908",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Sep/09/2022 08:44"
+  },
   "CF171460935": {
     "contest_id": 1716,
     "language": "GNU C++20 (64)",
