@@ -1,4 +1,22 @@
 {
+  "CF171460626": {
+    "contest_id": 1715,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1715\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Crossmarket",
+    "problem_url": "https://codeforces.com/contest/1715/problem/A",
+    "submission_id": "CF171460626",
+    "submission_url": "https://codeforces.com/contest/1715/submission/171460626",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Sep/09/2022 08:38"
+  },
   "CF171460650": {
     "contest_id": 1705,
     "language": "GNU C++20 (64)",
