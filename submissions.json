@@ -1,4 +1,20 @@
 {
+  "CF171460434": {
+    "contest_id": 903,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\903\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Boxes Packing",
+    "problem_url": "https://codeforces.com/contest/903/problem/C",
+    "submission_id": "CF171460434",
+    "submission_url": "https://codeforces.com/contest/903/submission/171460434",
+    "tags": [
+      "greedy",
+      "*1200"
+    ],
+    "timestamp": "Sep/09/2022 08:34"
+  },
   "CF171460460": {
     "contest_id": 1726,
     "language": "GNU C++20 (64)",
