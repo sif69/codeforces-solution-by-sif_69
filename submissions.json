@@ -448,6 +448,22 @@
     ],
     "timestamp": "Sep/09/2022 08:42"
   },
+  "CF171461146": {
+    "contest_id": 1701,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1701\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Permutation",
+    "problem_url": "https://codeforces.com/contest/1701/problem/B",
+    "submission_id": "CF171461146",
+    "submission_url": "https://codeforces.com/contest/1701/submission/171461146",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Sep/09/2022 08:49"
+  },
   "CF171489527": {
     "contest_id": 1728,
     "language": "GNU C++17",
