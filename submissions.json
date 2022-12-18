@@ -1,4 +1,21 @@
 {
+  "CF185831533": {
+    "contest_id": 1772,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1772\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Matrix Rotation",
+    "problem_url": "https://codeforces.com/contest/1772/problem/B",
+    "submission_id": "CF185831533",
+    "submission_url": "https://codeforces.com/contest/1772/submission/185831533",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Dec/18/2022 21:06"
+  },
   "CF186761667": {
     "contest_id": 1772,
     "language": "GNU C++20 (64)",
