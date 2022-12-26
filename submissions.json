@@ -1,4 +1,21 @@
 {
+  "CF186785648": {
+    "contest_id": 20,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\20\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Dijkstra?",
+    "problem_url": "https://codeforces.com/contest/20/problem/C",
+    "submission_id": "CF186785648",
+    "submission_url": "https://codeforces.com/contest/20/submission/186785648",
+    "tags": [
+      "graphs",
+      "shortest paths",
+      "*1900"
+    ],
+    "timestamp": "Dec/26/2022 21:12"
+  },
   "CF186832847": {
     "contest_id": 1704,
     "language": "GNU C++20 (64)",
