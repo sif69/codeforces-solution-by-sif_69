@@ -1,4 +1,22 @@
 {
+  "CF188052997": {
+    "contest_id": 1768,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1768\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Greatest Convex",
+    "problem_url": "https://codeforces.com/contest/1768/problem/A",
+    "submission_id": "CF188052997",
+    "submission_url": "https://codeforces.com/contest/1768/submission/188052997",
+    "tags": [
+      "greedy",
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Jan/05/2023 20:40"
+  },
   "CF188462211": {
     "contest_id": 1783,
     "language": "GNU C++20 (64)",

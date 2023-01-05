@@ -16,7 +16,7 @@ using namespace std;
 #define puni v1.erase(unique(v1.begin(),v1.end()),v1.end())
 #define  yo    cout<<"YES"<<endl
 #define  no    cout<<"NO"<<endl
-#define M 1000000007
+ 
 
 bool isPrime(int num){
     bool flag=true;
@@ -37,6 +37,19 @@ ll lo(ll n)
 }
 
 
+ll binarySearch(ll arr[], ll p, ll r, ll num) {
+   if (p <= r) {
+      ll mid = (p + r)/2;
+      if (arr[mid] == num)
+         return mid ;
+      if (arr[mid] > num)
+         return binarySearch(arr, p, mid-1, num);
+      if (arr[mid] < num)
+         return binarySearch(arr, mid+1, r, num);
+   }
+   return -1;
+}
+
 ll dig(ll n)
 {
    ll j=0;
@@ -48,95 +61,41 @@ ll dig(ll n)
    return j; 
 }
 
-ll Mod_jod(ll a,ll b,ll m)
-{
-  
-   if(b==0)
-   {
-       return 1; 
-   }
-
-    ll ans= Mod_jod(a,b/2,m);
-    // b&1 check odd number ...
-    if(b&1)
-    {
-       return (a* (ans * ans) % m ) % m ;
-    }
-    else
-    {
-       return ( ans * ans ) % m ;
-    }
-}
-
-ll jow(ll x,ll y)
-{
-   if(y==0)
-   {
-       return 1; 
-   }
-
-    ll dans= jow(x,y/2);
-   
-    if(y&1)
-    {
-       return x* (dans * dans) ;
-    }
-    else
-    {
-       return ( dans * dans )  ;
-    }
-}
-
-ll divSum(ll num)
-{
-    
-    ll res = 0;
-    if(num == 1) 
-      return res;
-    
-    for (ll i=2; i<=sqrt(num); i++)
-    {
-       
-        if (num%i==0)
-        {
-           
-            if (i==(num/i))
-                res += i;
-            else
-                res += (i + num/i);
-        }
-    }
- 
-   
-    return (res + 1);
-}
 
 
 
-ll c; 
-//ll vis[10000000];
+
 void Solve()
 {
-
-             ll i,c=0,flag=0,n,x;
-             cin>>n;
-             cout<<n-1<<endl; 
-           
-
-
-
-             
    
+    map<char,ll>mp; 
+    vector<ll>v;
+   
+   
+    ll i,c=0,d=0,flag=0,n,index=0;
+    cin>>n; 
+   
+     if(n==1) cout<<-1<<endl; 
+     else cout<<(n-1)<<endl; 
+     
+     
+     
+    
+     
+   
+
+
+
 }
 
 int main()
 {
     ios::sync_with_stdio(false);
         cin.tie(0);
-      
+
         int tt=1;
 
-        cin>>tt;
+       cin>>tt;
 
         while(tt--)
         {
