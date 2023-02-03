@@ -1,4 +1,21 @@
 {
+  "CF191842815": {
+    "contest_id": 1557,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1557\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Moamen and k-subarrays",
+    "problem_url": "https://codeforces.com/contest/1557/problem/B",
+    "submission_id": "CF191842815",
+    "submission_url": "https://codeforces.com/contest/1557/submission/191842815",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Feb/03/2023 19:40"
+  },
   "CF191853888": {
     "contest_id": 1791,
     "language": "GNU C++20 (64)",
