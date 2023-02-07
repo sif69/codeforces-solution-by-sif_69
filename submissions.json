@@ -1,4 +1,20 @@
 {
+  "CF192650174": {
+    "contest_id": 1747,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1747\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Swap Game",
+    "problem_url": "https://codeforces.com/contest/1747/problem/C",
+    "submission_id": "CF192650174",
+    "submission_url": "https://codeforces.com/contest/1747/submission/192650174",
+    "tags": [
+      "games",
+      "*1200"
+    ],
+    "timestamp": "Feb/08/2023 00:31"
+  },
   "CF192853653": {
     "contest_id": 1594,
     "language": "GNU C++20 (64)",
