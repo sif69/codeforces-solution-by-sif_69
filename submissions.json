@@ -1,4 +1,22 @@
 {
+  "CF195129249": {
+    "contest_id": 1789,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1789\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Serval and Mocha's Array",
+    "problem_url": "https://codeforces.com/contest/1789/problem/A",
+    "submission_id": "CF195129249",
+    "submission_url": "https://codeforces.com/contest/1789/submission/195129249",
+    "tags": [
+      "brute force",
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Feb/27/2023 19:08"
+  },
   "CF195155576": {
     "contest_id": 1799,
     "language": "GNU C++20 (64)",
