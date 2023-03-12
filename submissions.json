@@ -1,4 +1,21 @@
 {
+  "CF197008571": {
+    "contest_id": 1802,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1802\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Likes",
+    "problem_url": "https://codeforces.com/contest/1802/problem/A",
+    "submission_id": "CF197008571",
+    "submission_url": "https://codeforces.com/contest/1802/submission/197008571",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/12/2023 10:10"
+  },
   "CF198061453": {
     "contest_id": 1806,
     "language": "GNU C++20 (64)",
