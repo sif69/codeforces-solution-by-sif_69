@@ -2,7 +2,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-#define ll       long long
+#define ll      unsigned long long
 #define lg      long long
 #define fi(i,L,R) for (ll i = L ; i <= R ; i++)
 #define fd(i,R,L) for (ll i = R ; i >= L ; i--)
@@ -37,16 +37,42 @@ bool isPrime(int num){
 
 void Solve()
 {
-       ll i,c=0,j,flag=0,m,n,a,b; 
-       cin>>a>>b; 
-       if(a==0||b==0)
-        cout<<1<<endl<<a<<" "<<b<<endl;
-    else
-        cout<<2<<endl<<1<<" "<<b-1<<endl<<a<<" "<<b<<endl;
-      
-      
-        
-       
+
+          ll i,j,c=0,flag=0,n;
+  
+           vector<ll>v; 
+           ll x,y; cin>>x>>y;
+           
+          
+           if(x==0 && y==0)
+           {
+            cout<<1<<endl; 
+            cout<<x<<" "<<y<<endl; 
+           }
+           else if(x==0 && y==1||x==1 && y==0)
+           {
+            cout<<1<<endl; 
+            cout<<x<<" "<<y<<endl; 
+           }
+           else if(x==0|| y==0)
+           {
+            cout<<2<<endl; 
+            cout<<1<<" "<<0<<endl; 
+            cout<<x<<" "<<y<<endl; 
+           }
+           else
+           {
+            cout<<2<<endl;
+            cout<<1<<" "<<y-1<<endl; 
+            cout<<x<<" "<<y<<endl; 
+           }
+
+     
+            
+
+
+           
+
          
 }
 
@@ -62,10 +88,9 @@ int main()
 
         while(tt--)
         {
- 
+
             Solve();
         }
 
         return 0;
 }
-              
