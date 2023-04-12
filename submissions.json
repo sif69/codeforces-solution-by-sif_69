@@ -1,4 +1,23 @@
 {
+  "CF201785238": {
+    "contest_id": 1798,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1798\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Three Sevens",
+    "problem_url": "https://codeforces.com/contest/1798/problem/B",
+    "submission_id": "CF201785238",
+    "submission_url": "https://codeforces.com/contest/1798/submission/201785238",
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Apr/12/2023 11:56"
+  },
   "CF201939267": {
     "contest_id": 1816,
     "language": "GNU C++20 (64)",
