@@ -54,7 +54,7 @@ void Solve()
            ll a[n]; 
            fi(i,0,n-1) cin>>a[i]; 
           
-        for(j=0;j<n;j++)
+        for(j=0;j<1000;j++)
         {
             for(i=0;i<n-1;i++)
             {
