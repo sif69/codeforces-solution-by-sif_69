@@ -57,7 +57,10 @@ void Solve()
        ll ans=0; 
 
        ll k=sqrt(n); 
-      
+       if(n%2==0) cout<<n/2<<" "<<n/2<<endl;
+       else if(n==3) cout<<1<<" "<<2<<endl;
+       else
+       {
         for(i=2;i<=k;i++)
         {
             if(n%i==0)
@@ -93,6 +96,9 @@ void Solve()
         }
         cout<<ans<<" "<<n-ans<<endl;
 
+
+       }
+      
            
          
         
