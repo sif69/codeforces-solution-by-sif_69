@@ -37,18 +37,19 @@ bool isPrime(int num){
 ll a[100][100]; 
 void Solve()
 {
-             ll i,j,c=0,flag=0,n; 
+           ll i,j,c=0,flag=0,n; 
            ll l,r; 
            cin>>l>>r>>n;
- 
+
            ll ans=0; 
            ans=(r)/n; 
            ans=(ans*n-1); 
-           
-           ll mx=-1;
-           mx=max(l,ans); 
-           mx=max((mx/n)+(mx%n),(r/n)+(r%n));
-           cout<<mx<<endl;
+           if(ans>=l)
+           {
+             cout<<max((r/n)+(r%n),(ans/n)+(ans%n))<<endl;
+             return;
+           }
+           cout<<(r/n)+(r%n)<<endl;
 
             
         
