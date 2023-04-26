@@ -48,7 +48,7 @@ void Solve()
            ll mx=-1;
            mx=max(l,ans); 
            mx=max((mx/n)+(mx%n),(r/n)+(r%n));
-          cout<<max(mx,r==l?0:(r-1)/n+(r-1)%n)<<endl;
+           cout<<mx<<endl;
 
             
         
