@@ -1,4 +1,22 @@
 {
+  "CF203691009": {
+    "contest_id": 1823,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1823\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "A-characteristic",
+    "problem_url": "https://codeforces.com/contest/1823/problem/A",
+    "submission_id": "CF203691009",
+    "submission_url": "https://codeforces.com/contest/1823/submission/203691009",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/27/2023 21:10"
+  },
   "CF203723362": {
     "contest_id": 1823,
     "language": "GNU C++20 (64)",
