@@ -69,7 +69,7 @@ void Solve()
              {
                 cout<<0<<endl;
              }
-             else if(c==2)
+             else if(c<=2)
              {
                 cout<<1<<endl;
              }
