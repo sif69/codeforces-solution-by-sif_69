@@ -73,7 +73,23 @@ void Solve()
                 cout<<0<<pp;
                 return;
             }
-          
+            srt(v);
+            vuni;
+            // cout<<v.size()<<pp;
+            if(v.size()==n)
+            {
+                for(i=n-1;i>=0;i--)
+                {
+                  if(a[i]>=a[i-1])
+                  {
+                    continue;
+                  }
+                  j=i-1;
+                  break;
+                }
+                cout<<(j+1)<<pp;
+                return;
+            }
           for(i=n-1;i>0;i--)
           {
             if(a[i]!=a[i-1]&&mp2[a[i]]>1)
@@ -93,7 +109,7 @@ void Solve()
           }
         
 
-     
+       // cout<<j<<pp;
          for(i=0;i<=j;i++)
          {
             cnt+=(mp[a[i]]>=1&&mp1[a[i]]==0);
