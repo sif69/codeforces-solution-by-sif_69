@@ -43,30 +43,34 @@ void Solve()
             {
                 cin>>v[i];
             }
-            srt(v); 
-            vuni ;
-         
-          
-            ll mn=0;
-             mn=0;
-            sum+=0;
-          for(i=0;i<v.size();i++)
+            if(n==1)
+            {
+                cout<<v[0]<<pp; 
+                return; 
+            }
+            // cout<<n<<pp;
+            srt(v);
+            vuni;
+            ll p=0;
+            if(v.size()==1)
+            {
+                cout<<max(p,v[0])<<pp;
+                return;
+            }
+            if(v.size()==2)
+            {
+                cout<<max(v[0],abs(v[0]-v[1]))<<pp;
+                return;
+            }
+            ll mn=-1;
+             mn=v[0];
+            sum+=mn;
+          for(i=1;i<v.size();i++)
           {
-             if(i==0)
-             {
-                mn=v[0]; 
-                sum=v[0]; 
-                continue;
-             }
                 mn=max(mn,abs(v[i]-sum));
                 sum+=(v[i]-sum);
 
           }
-          // ll p=
-         if(v.size()==1&&n>1)
-         {
-              mn=max(v[0]-v[0],v[0]);
-         }
          cout<<mn<<pp;
            
            
