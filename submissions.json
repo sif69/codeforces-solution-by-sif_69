@@ -1,4 +1,20 @@
 {
+  "CF207300164": {
+    "contest_id": 1837,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1837\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Comparison String",
+    "problem_url": "https://codeforces.com/contest/1837/problem/B",
+    "submission_id": "CF207300164",
+    "submission_url": "https://codeforces.com/contest/1837/submission/207300164",
+    "tags": [
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "May/26/2023 09:14"
+  },
   "CF207303900": {
     "contest_id": 1669,
     "language": "GNU C++20 (64)",
