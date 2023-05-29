@@ -1,4 +1,22 @@
 {
+  "CF207767778": {
+    "contest_id": 1713,
+    "language": "GNU C++17",
+    "path": "codeforces\\1713\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Traveling Salesman Problem",
+    "problem_url": "https://codeforces.com/contest/1713/problem/A",
+    "submission_id": "CF207767778",
+    "submission_url": "https://codeforces.com/contest/1713/submission/207767778",
+    "tags": [
+      "geometry",
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/29/2023 20:26"
+  },
   "CF208054372": {
     "contest_id": 1419,
     "language": "GNU C++17",
