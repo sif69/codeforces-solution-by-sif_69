@@ -1,4 +1,20 @@
 {
+  "CF208304094": {
+    "contest_id": 1606,
+    "language": "GNU C++17",
+    "path": "codeforces\\1606\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "AB Balance",
+    "problem_url": "https://codeforces.com/contest/1606/problem/A",
+    "submission_id": "CF208304094",
+    "submission_url": "https://codeforces.com/contest/1606/submission/208304094",
+    "tags": [
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Jun/03/2023 20:07"
+  },
   "CF208327130": {
     "contest_id": 1839,
     "language": "GNU C++17",
