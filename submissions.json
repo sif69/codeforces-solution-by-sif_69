@@ -1,4 +1,22 @@
 {
+  "CF209107571": {
+    "contest_id": 1840,
+    "language": "GNU C++17",
+    "path": "codeforces\\1840\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cipher Shifer",
+    "problem_url": "https://codeforces.com/contest/1840/problem/A",
+    "submission_id": "CF209107571",
+    "submission_url": "https://codeforces.com/contest/1840/submission/209107571",
+    "tags": [
+      "implementation",
+      "strings",
+      "two pointers",
+      "*800"
+    ],
+    "timestamp": "Jun/09/2023 20:50"
+  },
   "CF209401149": {
     "contest_id": 1841,
     "language": "GNU C++17",
