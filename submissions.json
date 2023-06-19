@@ -1,4 +1,21 @@
 {
+  "CF210199444": {
+    "contest_id": 1836,
+    "language": "GNU C++17",
+    "path": "codeforces\\1836\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Astrophysicists",
+    "problem_url": "https://codeforces.com/contest/1836/problem/B",
+    "submission_id": "CF210199444",
+    "submission_url": "https://codeforces.com/contest/1836/submission/210199444",
+    "tags": [
+      "greedy",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jun/19/2023 09:54"
+  },
   "CF210365637": {
     "contest_id": 1843,
     "language": "GNU C++17",
