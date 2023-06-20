@@ -1,4 +1,22 @@
 {
+  "CF210425812": {
+    "contest_id": 1843,
+    "language": "GNU C++17",
+    "path": "codeforces\\1843\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Long Long",
+    "problem_url": "https://codeforces.com/contest/1843/problem/B",
+    "submission_id": "CF210425812",
+    "submission_url": "https://codeforces.com/contest/1843/submission/210425812",
+    "tags": [
+      "greedy",
+      "math",
+      "two pointers",
+      "*800"
+    ],
+    "timestamp": "Jun/20/2023 21:44"
+  },
   "CF210429043": {
     "contest_id": 1843,
     "language": "GNU C++17",
