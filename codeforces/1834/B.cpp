@@ -42,6 +42,10 @@ void Solve()
 
        s1 s,p,k=""; cin>>s>>p; 
 
+       if(s==p){
+        cout<<0<<pp;
+        return;
+       }
 
        ll n,m;
 
