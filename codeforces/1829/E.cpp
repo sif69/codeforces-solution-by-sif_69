@@ -1,0 +1,125 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+#define  ll       long long
+#define  lg        long long
+#define  fi(i,L,R) for (ll i = L ; i <= R ; i++)
+#define  fd(i,R,L) for (ll i = R ; i >= L ; i--)
+#define  s1        string
+#define  p_b       push_back
+#define  st(n)     sort(a,a+n)
+#define  rev       reverse(a,a+n)
+#define  revs(j)   reverse((j).begin(),(j).end())
+#define  srt(k)    sort((k).begin(),(k).end())
+#define  suni      s.erase(unique(s.begin(),s.end()),s.end())
+#define  vuni      v.erase(unique( v.begin(),v.end()),v.end())
+#define  puni      v1.erase(unique(v1.begin(),v1.end()),v1.end())
+#define  yo       cout<<"YES"<<endl
+#define  no       cout<<"NO"<<endl
+#define  M        1000000007
+#define  pie       acos(-1.0)
+#define  pp        endl 
+#define  sz        200000
+
+ll i , j , n , m;
+
+bool vis[1009] [1009];
+
+ll a[1009] [1009];
+
+ll dfs(ll i, ll j){
+
+   vis[i][j]=true;
+
+   ll ans=a[i][j];
+  
+   if(i>0 && a[i-1][j] !=0 && !vis[i-1][j]){
+
+     ans+= dfs(i-1,j);
+   }
+
+   if(i<n-1 && a[i+1][j] !=0 && !vis[i+1][j]){
+
+      ans+= dfs(i+1,j);
+   }
+
+    if(j>0 && a[i][j-1] !=0 && !vis[i][j-1]){
+
+     ans+= dfs(i,j-1);
+   }
+
+   if(j<m-1 && a[i][j+1] !=0 && !vis[i][j+1]){
+
+      ans+= dfs(i,j+1);
+   }
+   return ans;
+
+
+
+}
+
+void Solve()
+{
+
+          
+          cin >> n >> m;
+
+        
+
+          for(i=0;i<n;i++) {
+
+             for(j=0;j<m;j++) {
+
+                 vis[i][j] = false;
+
+                cin >> a[i][j];
+             }
+
+          }
+          ll res=0;
+
+           for(i=0;i<n;i++) {
+
+             for(j=0;j<m;j++) {
+
+                if(a[i][j]!=0&&!vis[i][j]){
+                    res=max(res,dfs(i,j));
+                }
+                
+
+               }
+
+          }
+
+          cout << res << pp;
+
+
+
+}
+
+
+int main()
+{ 
+
+    ios::sync_with_stdio(false);
+        cin.tie(0);
+
+
+        int tt=1;
+
+      
+        
+
+        cin>>tt;
+
+        while(tt--)
+        {
+ 
+             Solve();
+
+        }
+
+
+        return 0;
+}
+              
