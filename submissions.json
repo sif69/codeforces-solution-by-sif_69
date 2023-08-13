@@ -1,4 +1,23 @@
 {
+  "CF218618939": {
+    "contest_id": 1859,
+    "language": "GNU C++17",
+    "path": "codeforces\\1859\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Another Permutation Problem",
+    "problem_url": "https://codeforces.com/contest/1859/problem/C",
+    "submission_id": "CF218618939",
+    "submission_url": "https://codeforces.com/contest/1859/submission/218618939",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Aug/13/2023 09:12"
+  },
   "CF219249667": {
     "contest_id": 1675,
     "language": "GNU C++17",
