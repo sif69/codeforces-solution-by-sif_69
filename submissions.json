@@ -1,4 +1,23 @@
 {
+  "CF224107777": {
+    "contest_id": 1858,
+    "language": "GNU C++17",
+    "path": "codeforces\\1858\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Yet Another Permutation Problem",
+    "problem_url": "https://codeforces.com/contest/1858/problem/C",
+    "submission_id": "CF224107777",
+    "submission_url": "https://codeforces.com/contest/1858/submission/224107777",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "number theory",
+      "*1000"
+    ],
+    "timestamp": "Sep/20/2023 08:19"
+  },
   "CF224272397": {
     "contest_id": 1849,
     "language": "GNU C++17",
