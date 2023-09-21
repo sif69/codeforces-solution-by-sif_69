@@ -1,4 +1,22 @@
 {
+  "CF224272397": {
+    "contest_id": 1849,
+    "language": "GNU C++17",
+    "path": "codeforces\\1849\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Monsters",
+    "problem_url": "https://codeforces.com/contest/1849/problem/B",
+    "submission_id": "CF224272397",
+    "submission_url": "https://codeforces.com/contest/1849/submission/224272397",
+    "tags": [
+      "greedy",
+      "math",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Sep/21/2023 15:09"
+  },
   "CF224468855": {
     "contest_id": 1873,
     "language": "GNU C++17",
