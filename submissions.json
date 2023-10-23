@@ -1,4 +1,20 @@
 {
+  "CF229375972": {
+    "contest_id": 1509,
+    "language": "GNU C++17",
+    "path": "codeforces\\1509\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "TMT Document",
+    "problem_url": "https://codeforces.com/contest/1509/problem/B",
+    "submission_id": "CF229375972",
+    "submission_url": "https://codeforces.com/contest/1509/submission/229375972",
+    "tags": [
+      "greedy",
+      "*1100"
+    ],
+    "timestamp": "Oct/23/2023 12:17"
+  },
   "CF229383151": {
     "contest_id": 1702,
     "language": "GNU C++17",
