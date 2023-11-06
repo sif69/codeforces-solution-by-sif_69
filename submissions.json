@@ -1,4 +1,22 @@
 {
+  "CF231530527": {
+    "contest_id": 1840,
+    "language": "GNU C++17",
+    "path": "codeforces\\1840\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Binary Cafe",
+    "problem_url": "https://codeforces.com/contest/1840/problem/B",
+    "submission_id": "CF231530527",
+    "submission_url": "https://codeforces.com/contest/1840/submission/231530527",
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Nov/06/2023 08:39"
+  },
   "CF233106976": {
     "contest_id": 1899,
     "language": "GNU C++17",
