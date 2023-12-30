@@ -1,4 +1,23 @@
 {
+  "CF239627525": {
+    "contest_id": 1916,
+    "language": "GNU C++17",
+    "path": "codeforces\\1916\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "2023",
+    "problem_url": "https://codeforces.com/contest/1916/problem/A",
+    "submission_id": "CF239627525",
+    "submission_url": "https://codeforces.com/contest/1916/submission/239627525",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Dec/30/2023 20:55"
+  },
   "CF240063696": {
     "contest_id": 808,
     "language": "GNU C++17",
