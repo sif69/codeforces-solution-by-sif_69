@@ -1,4 +1,22 @@
 {
+  "CF240071830": {
+    "contest_id": 1916,
+    "language": "GNU C++17",
+    "path": "codeforces\\1916\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Two Divisors",
+    "problem_url": "https://codeforces.com/contest/1916/problem/B",
+    "submission_id": "CF240071830",
+    "submission_url": "https://codeforces.com/contest/1916/submission/240071830",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory",
+      "*1000"
+    ],
+    "timestamp": "Jan/03/2024 12:59"
+  },
   "CF240439273": {
     "contest_id": 1913,
     "language": "GNU C++17",
