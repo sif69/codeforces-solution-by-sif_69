@@ -1,4 +1,23 @@
 {
+  "CF240439273": {
+    "contest_id": 1913,
+    "language": "GNU C++17",
+    "path": "codeforces\\1913\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Game with Multiset",
+    "problem_url": "https://codeforces.com/contest/1913/problem/C",
+    "submission_id": "CF240439273",
+    "submission_url": "https://codeforces.com/contest/1913/submission/240439273",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "brute force",
+      "greedy",
+      "*1300"
+    ],
+    "timestamp": "Jan/06/2024 12:45"
+  },
   "CF240635033": {
     "contest_id": 1919,
     "language": "GNU C++17",
