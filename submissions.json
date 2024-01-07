@@ -1,4 +1,21 @@
 {
+  "CF240640517": {
+    "contest_id": 1919,
+    "language": "GNU C++17",
+    "path": "codeforces\\1919\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Wallet Exchange",
+    "problem_url": "https://codeforces.com/contest/1919/problem/A",
+    "submission_id": "CF240640517",
+    "submission_url": "https://codeforces.com/contest/1919/submission/240640517",
+    "tags": [
+      "games",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/07/2024 11:27"
+  },
   "CF240771369": {
     "contest_id": 1862,
     "language": "GNU C++17",
