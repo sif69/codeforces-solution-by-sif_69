@@ -1,4 +1,21 @@
 {
+  "CF242058444": {
+    "contest_id": 1921,
+    "language": "GNU C++17",
+    "path": "codeforces\\1921\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Square",
+    "problem_url": "https://codeforces.com/contest/1921/problem/A",
+    "submission_id": "CF242058444",
+    "submission_url": "https://codeforces.com/contest/1921/submission/242058444",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/17/2024 16:44"
+  },
   "CF242064990": {
     "contest_id": 1921,
     "language": "GNU C++17",
