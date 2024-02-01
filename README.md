@@ -13,7 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-<<<<<<< HEAD
+
 350 | [B - Minimize Inversions](https://codeforces.com/contest/1918/problem/B) | [GNU C++17](./codeforces/1918/B.cpp) | `constructive algorithms` `data structures` `greedy` `implementation` `sortings` `*900` | Jan/31/2024 21:39 | 
 349 | [A - Brick Wall](https://codeforces.com/contest/1918/problem/A) | [GNU C++17](./codeforces/1918/A.cpp) | `constructive algorithms` `greedy` `implementation` `math` `*800` | Jan/31/2024 18:15 | 
 348 | [B - Arranging Cats](https://codeforces.com/contest/1921/problem/B) | [GNU C++17](./codeforces/1921/B.cpp) | `greedy` `implementation` `*800` | Jan/17/2024 18:33 | 
