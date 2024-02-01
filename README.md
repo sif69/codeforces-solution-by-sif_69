@@ -3,7 +3,7 @@ Submissions
 > *Auto-generated with ❤ using [Harwest](https://github.com/nileshsah/harwest-tool)*
 
 ## Introduction
-
+*All codeforces solved problem will be stored here *
 A repository to keep track of problem solving practice, containing solutions from platforms:
 * Codeforces &nbsp; [![Codeforces](https://run.kaist.ac.kr/badges/codeforces/sif_69.svg)](https://codeforces.com/profile/sif_69)
 
